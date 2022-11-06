@@ -1,0 +1,32 @@
+* {
+  display: flexbox;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.App {
+  max-width: 200%;
+  font-family: sans-serif;
+  text-align: center;
+}
+p {
+  margin: 20px;
+  text-align: center;
+  font-weight: 600px;
+  font-size: 30px;
+  color: rebeccapurple;
+  font-weight: bold;
+}
+span {
+  color: black;
+}
+
+button {
+  margin-left: 90px;
+  border: 2px solid black;
+  background-color: cornflowerblue;
+  width: 300px;
+  font-size: 20px;
+  padding: 18px;
+  border-end-end-radius: 20px;
+}
